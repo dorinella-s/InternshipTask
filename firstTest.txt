@@ -1,2 +1,4 @@
 I do this from console :)
-Nice try
+And me, from the VS Release2
+
+Nice try Release1
